@@ -1,0 +1,6 @@
+.otp-input {
+  width: 24px; /* Đặt chiều rộng cho input tại đây */
+  height: 3.4rem;
+  border: 2px solid #ecad48;
+  border-radius: 4px;
+}
